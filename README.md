@@ -50,8 +50,9 @@ $ npm run dev
 
 Principais tecnologia usada neste projeto
 
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem de programação
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem que vai ser rodada
 * [NodeJs](https://nodejs.org/en/docs/) - Runtime do JavaScript
+* [Typescript](https://www.typescriptlang.org/docs/) - Linguagem de programação
 <!-- * [MongoDB](https://www.mongodb.com/docs/) - Banco de dados -->
 <!-- * [Mongoose](https://mongoosejs.com/docs/) - Biblioteca que se conecta com o banco de dados -->
 <!-- * [Bcrypt](https://www.npmjs.com/package/bcrypt) - Biblioteca de hash -->
